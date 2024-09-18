@@ -144,11 +144,7 @@ Slice (cartSlice)
 dispatch(action)
 Selector
 
-# Types of testing (devloper)
 
-Unit Testing
-Integration Testing
-End to End Testing - e2e testing
 
 # Setting up Testing in our app
 
