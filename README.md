@@ -12,7 +12,6 @@ Bundling
 Compress
 Consistent Hashing
 Code Splitting
-Differential Bundling - support older browsers
 Diagnostic
 Error Handling
 HTTPs
@@ -20,7 +19,6 @@ Tree Shaking - remove unused code
 Different dev and prod bundles
 
 # Namaste Food
-
 /\*\*
 Header
 Logo
@@ -126,7 +124,6 @@ Named Export/Import
 export const Component; import {Component} from "path";
 
 # React Hooks
-
 (Normal JS utility functions)
 
 useState() - Superpowerful State Variables in react
